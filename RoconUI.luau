@@ -3,7 +3,7 @@ local RoconUI = {}
 
 function RoconUI.new(Icon: string, Color: Color3?, Size: number?) : string?
 	if Icon == "verified-blue-filled" then
-		return utf8.char(0xE000)
+		return Size and `<font size="{Size}">{utf8.char(0xE000)}</font>` or utf8.char(0xE000)
 	end
 	
 	local CamelCase = string.sub(Icon,1,1)
