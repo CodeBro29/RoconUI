@@ -68,6 +68,11 @@ RoconUI.new(RoconUI.Rocons.robloxPlusFilled, Color3.new(1,0,1), 30), --Sets the 
 ```
 <img width="1013" height="226" alt="image" src="https://github.com/user-attachments/assets/33a9417d-6c98-4051-ae17-f0ac6c14a869" />
 
+# Icon List:
+I created this module after finding a [DevForum post](https://devforum.roblox.com/t/customize-your-guis-with-builder-icons/3968755) by @82_O7 about Builder Icons. That post links to a helpful list of the most recent icons, which you can view here: https://voxlenox.github.io/RobloxBuilderIconList/
+
+Keep in mind that the Rocons dictionary is camelCase, not hyphenated. 
+
 # Closing Thoughts:
 If you have any feedback, feel free to post an issue on this repo. You may also contribute if you'd like. Additionally, if any changes are made to the original source code, as per the license, you must open source the changes.
 
