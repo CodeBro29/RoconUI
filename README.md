@@ -8,7 +8,7 @@ RoconUI allows you to seamlessly integrate a variety of icons across your UI wor
 - Roblox Creator Store: https://create.roblox.com/store/asset/122179257249627/RoconUI
 
 # Usage:
-RoconUI has two components: the icon list (`RoconUI.Rocons`), and the icon generator (`RoconUI.new`).
+The RoconUI Module has two components: the icon list (`RoconUI.Rocons`), and the icon generator (`RoconUI.new`).
 
 The `RoconUI.new()` function returns a string and takes in **one required parameter**, and **two optional parameters**:
 
