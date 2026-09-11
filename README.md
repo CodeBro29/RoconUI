@@ -1,7 +1,7 @@
 # RoconUI
 Welcome to RoconUI, a Simple and Customizable Icon Pack for Roblox UI with **over 1,600 icons**.
 
-RoconUI allows you to seamlessly integrate a variety of icons across your UI workspace, including when using effects such as `UIStroke`, _without needing to use ImageLabels_.
+RoconUI allows you to seamlessly integrate a variety of icons across your UI workspace, including when using effects such as `UIStroke`, _without needing to use ImageLabels_. It works by utilizing a little-known Roblox Font with built in icons.
 
 # Usage:
 RoconUI has two components: the icon list (`RoconUI.Rocons`), and the icon generator (`RoconUI.new`).
